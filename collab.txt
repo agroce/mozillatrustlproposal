@@ -1,0 +1,1 @@
+We will work with members of the Rust language team and the development tools team to ensure TruSTL is informed by the current and long-term plans of the Rust team.  I have already spoken with Aaron Turan, Nick Cameron, Manish Goregaokar, and Niko Matsakis some about the general idea and (specifically) with the current proposal for custom test frameworks.  
